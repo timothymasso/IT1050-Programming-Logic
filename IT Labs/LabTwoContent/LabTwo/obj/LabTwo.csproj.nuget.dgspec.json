@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Tim Masso\\Documents\\GitHub\\IT1050-Programming-Logic\\IT Labs\\LabTwoContent\\LabTwo\\LabTwo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Tim Masso\\Documents\\GitHub\\IT1050-Programming-Logic\\IT Labs\\LabTwoContent\\LabTwo\\LabTwo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tim Masso\\Documents\\GitHub\\IT1050-Programming-Logic\\IT Labs\\LabTwoContent\\LabTwo\\LabTwo.csproj",
+        "projectName": "LabTwo",
+        "projectPath": "C:\\Users\\Tim Masso\\Documents\\GitHub\\IT1050-Programming-Logic\\IT Labs\\LabTwoContent\\LabTwo\\LabTwo.csproj",
+        "packagesPath": "C:\\Users\\Tim Masso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tim Masso\\Documents\\GitHub\\IT1050-Programming-Logic\\IT Labs\\LabTwoContent\\LabTwo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tim Masso\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
