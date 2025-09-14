@@ -9,7 +9,7 @@ class Program
             string name;
             double height;
             double weight;
-            double bmi = 0;
+            double bmi;
 
             Console.Write("Enter name: ");
             name = Console.ReadLine();
