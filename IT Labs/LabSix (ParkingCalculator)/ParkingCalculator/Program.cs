@@ -4,7 +4,6 @@ namespace ParkingCalculator
 {
     class Program
     {
-        // Function to calculate parking cost
         static double CalculateParkingCost(int hours)
         {
             double totalCost = 2.0;
