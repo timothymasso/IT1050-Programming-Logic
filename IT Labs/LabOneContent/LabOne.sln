@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddEven", "..\LabFive (OddE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingCalculator.", "..\LabSix (ParkingCalculator)\ParkingCalculator\ParkingCalculator..csproj", "{1518BB92-89BC-4A21-8729-E9C697EAB053}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini Exam 2", "..\Mini Exam 2\Mini Exam 2\Mini Exam 2.csproj", "{B63707CF-FF5E-4E17-94FF-3B899DA4EF6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -139,6 +141,18 @@ Global
 		{1518BB92-89BC-4A21-8729-E9C697EAB053}.Release|x64.Build.0 = Release|Any CPU
 		{1518BB92-89BC-4A21-8729-E9C697EAB053}.Release|x86.ActiveCfg = Release|Any CPU
 		{1518BB92-89BC-4A21-8729-E9C697EAB053}.Release|x86.Build.0 = Release|Any CPU
+		{B63707CF-FF5E-4E17-94FF-3B899DA4EF6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63707CF-FF5E-4E17-94FF-3B899DA4EF6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63707CF-FF5E-4E17-94FF-3B899DA4EF6C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B63707CF-FF5E-4E17-94FF-3B899DA4EF6C}.Debug|x64.Build.0 = Debug|Any CPU
+		{B63707CF-FF5E-4E17-94FF-3B899DA4EF6C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B63707CF-FF5E-4E17-94FF-3B899DA4EF6C}.Debug|x86.Build.0 = Debug|Any CPU
+		{B63707CF-FF5E-4E17-94FF-3B899DA4EF6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63707CF-FF5E-4E17-94FF-3B899DA4EF6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B63707CF-FF5E-4E17-94FF-3B899DA4EF6C}.Release|x64.ActiveCfg = Release|Any CPU
+		{B63707CF-FF5E-4E17-94FF-3B899DA4EF6C}.Release|x64.Build.0 = Release|Any CPU
+		{B63707CF-FF5E-4E17-94FF-3B899DA4EF6C}.Release|x86.ActiveCfg = Release|Any CPU
+		{B63707CF-FF5E-4E17-94FF-3B899DA4EF6C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

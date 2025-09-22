@@ -1,0 +1,28 @@
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\bin\Debug\net9.0\appsettings.json
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\bin\Debug\net9.0\Mini Exam 2.staticwebassets.endpoints.json
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\bin\Debug\net9.0\Mini Exam 2.exe
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\bin\Debug\net9.0\Mini Exam 2.deps.json
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\bin\Debug\net9.0\Mini Exam 2.runtimeconfig.json
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\bin\Debug\net9.0\Mini Exam 2.dll
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\bin\Debug\net9.0\Mini Exam 2.pdb
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\Mini Exam 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\Mini Exam 2.AssemblyInfoInputs.cache
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\Mini Exam 2.AssemblyInfo.cs
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\Mini Exam 2.csproj.CoreCompileInputs.cache
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\Mini Exam 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\Mini Exam 2.sourcelink.json
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\scopedcss\bundle\Mini Exam 2.styles.css
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\Mini Exam 2.dll
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\refint\Mini Exam 2.dll
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\Mini Exam 2.pdb
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\Mini Exam 2.genruntimeconfig.cache
+C:\Users\Tim Masso\Documents\GitHub\IT1050-Programming-Logic\IT Labs\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\ref\Mini Exam 2.dll
