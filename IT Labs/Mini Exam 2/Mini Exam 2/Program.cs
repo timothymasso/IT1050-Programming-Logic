@@ -9,7 +9,7 @@ class Program
         return cylVolume;
     }
 
-    static void Main(string[] args)
+    static void Main()
     {
         double radius;
         double height;
