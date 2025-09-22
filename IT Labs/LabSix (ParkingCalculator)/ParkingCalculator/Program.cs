@@ -21,7 +21,7 @@ namespace ParkingCalculator
             return totalCost;
         }
 
-        static void Main(string[] args)
+        static void Main()
         {
             int numCustomers;
             int hours;
