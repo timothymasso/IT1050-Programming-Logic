@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CommissionLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f413ae36efcc930c4c66f521b3dae41d61d7d7f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a04cebeee4e8b46b8d88cbd503d2eac68b0a3a13")]
 [assembly: System.Reflection.AssemblyProductAttribute("CommissionLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CommissionLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
