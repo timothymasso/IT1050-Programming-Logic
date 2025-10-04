@@ -1,5 +1,9 @@
 # IT1050-Programming-Logic
 
+Area of Study: Data Analytics
+Degree/Certificate: Post-Degree Professional Certificate
+Academic School: Advanced Manufacturing, Engineering and Computer Science
+
 Cuyahoga Community College Eastern Campus
 
 School of Advanced Manufacturing, Engineering and Computer Science.
