@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VSCode Bonus Lab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a113d7ec6c02b49368ba451f580df59df0a541fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67798e60aeda7de2a23f8f74cf2878d9bcd4f15d")]
 [assembly: System.Reflection.AssemblyProductAttribute("VSCode Bonus Lab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VSCode Bonus Lab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
