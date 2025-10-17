@@ -10,20 +10,10 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("6fd36379-c21e-4c70-8df3-fe11a17161a0")]
-[assembly: System.Reflection.AssemblyMetadata("dcpclipath", ("C:\\Users\\timot\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\8.2.2\\tools\\d" +
-    "cp.exe"))]
-[assembly: System.Reflection.AssemblyMetadata("dcpextensionpaths", ("C:\\Users\\timot\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\8.2.2\\tools\\e" +
-    "xt\\"))]
-[assembly: System.Reflection.AssemblyMetadata("dcpbinpath", ("C:\\Users\\timot\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\8.2.2\\tools\\e" +
-    "xt\\bin\\"))]
-[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "c:\\Users\\timot\\IT1050-Programming-Logic\\IT Labs\\LabNine (FacultyLab)\\FacultyLab")]
-[assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", ("C:\\Users\\timot\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\8.2.2\\tools\\Aspire.Da" +
-    "shboard.exe"))]
 [assembly: System.Reflection.AssemblyCompanyAttribute("FacultyLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7724ffe38fcb803ee21c0b408bfe14af53f3468d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a113d7ec6c02b49368ba451f580df59df0a541fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("FacultyLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FacultyLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
